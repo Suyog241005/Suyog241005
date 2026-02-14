@@ -9,6 +9,7 @@ I have experience building real-time systems using WebSockets, designing relatio
 Alongside application development, I’m deeply interested in library and tooling development. I enjoy designing reusable abstractions, developer-friendly APIs, and modular packages that solve real engineering problems. My focus is on writing maintainable code that scales — not just in users, but in contributors and future extensibility.
 
 Core strengths:
+
 - Full-stack system architecture
 - Real-time systems (event-driven design)
 - Backend API design & database modeling
@@ -25,45 +26,63 @@ I actively contribute to open-source projects across TypeScript ecosystems, back
 
 ---
 
-## 🏢 Ecosystems: JSON Schema
+## 🏢 Ecosystems: JSON Schema 
 
 ### 🔹 Organization: [`rjsf-team`](https://github.com/rjsf-team)
-- Repositories Contributed:
-  - [`react-jsonschema-form`](https://github.com/rjsf-team/react-jsonschema-form)
-- PRs Raised: 7
-- PRs Merged: 5
-- Issues Opened: 1
+
+#### Repositories Contributed:
+
+- [`react-jsonschema-form`](https://github.com/rjsf-team/react-jsonschema-form)
+
+#### PRs
+
+- [#4904](https://github.com/rjsf-team/react-jsonschema-form/pull/4904) Fix: <short title> (merged)
+- [#4895](https://github.com/rjsf-team/react-jsonschema-form/pull/4895) Fix: <short title> (merged)
+- [#4855](https://github.com/rjsf-team/react-jsonschema-form/pull/4855) Fix: <short title> (merged)
+- [#4841](https://github.com/rjsf-team/react-jsonschema-form/pull/4841) Fix: <short title> (merged)
+- [#4825](https://github.com/rjsf-team/react-jsonschema-form/pull/4825) Fix: <short title> (merged)
+- [#4926](https://github.com/rjsf-team/react-jsonschema-form/pull/4926)
+- [#4853](https://github.com/rjsf-team/react-jsonschema-form/pull/4853)
+
+#### Issues Opened
+
+- [#4840](https://github.com/rjsf-team/react-jsonschema-form/issues/4840)
+
+---
+
+### 🔹 Organization: [`ioflux-org`](https://github.com/ioflux-org)
+
+#### Repositories Contributed:
+
+- [`studio-json-schema`](https://github.com/ioflux-org/studio-json-schema)
+
+#### PRs
+
+- [#60](https://github.com/ioflux-org/studio-json-schema/pull/60)
+
+---
+
+### 🔹 Organization: [`json-schema-org`](https://github.com/json-schema-org)
+
+#### Repositories Contributed:
+
+- [`website`](https://github.com/json-schema-org/website)
+
+#### PRs
+
+- [#1872](https://github.com/json-schema-org/website/pull/1872)
 
 ---
 
 ### 🔹 Organization: [`MetaConfigurator`](https://github.com/MetaConfigurator)
-- Repositories Contributed:
-  - [`meta-configurator`](https://github.com/MetaConfigurator/meta-configurator)
-- PRs Raised: 1
----
 
-## 📁 Repository-Level Contributions
+#### Repositories Contributed:
 
-### 🔸 `repository-name`
-- Organization: `org-name`
-- Tech Stack: TypeScript, Node.js
-- Contributions:
-  - Refactored module structure to improve maintainability
-  - Fixed edge-case validation bug in authentication flow
-  - Improved type inference in core utility layer
-- PRs: **#123, #145**
-- Status: ✅ Merged
+- [`meta-configurator`](https://github.com/MetaConfigurator/meta-configurator)
 
----
+#### PRs
 
-### 🔸 `repository-name-2`
-- Organization: `org-name`
-- Tech Stack: Next.js, React
-- Contributions:
-  - Performance optimization in data fetching layer
-  - Reduced bundle size by modularizing shared components
-- PRs: **#78**
-- Status: ✅ Merged
+- [#883](https://github.com/MetaConfigurator/meta-configurator/pull/883)
 
 ---
 
@@ -79,14 +98,12 @@ My open-source work typically centers around:
 
 ---
 
-
-
 ## 👯 Open To Collaborate On
 
-- Open-source TypeScript projects  
-- Backend systems  
-- SaaS-style full-stack applications  
-- Automation tools  
+- Open-source TypeScript projects
+- Backend systems
+- SaaS-style full-stack applications
+- Automation tools
 
 ---
 
@@ -163,11 +180,10 @@ My open-source work typically centers around:
 AI-powered automation platform built with **Next.js, TypeScript, Prisma, PostgreSQL, and Docker**.
 Designed to streamline workflows, manage background jobs, and integrate intelligent task execution.
 
-**Tech Stack:** Next.js, Node.js,  
+**Tech Stack:** Next.js, Node.js,
 
 🔗 **Live Demo:** https://your-autopilot-link.com  
-💻 **GitHub:** https://github.com/yourusername/autopilot  
-
+💻 **GitHub:** https://github.com/yourusername/autopilot
 
 ## 🔹 NexChat
 
@@ -183,17 +199,6 @@ Engineered for scalable messaging, secure role-based access control, and integra
 **Tech Stack:** Next.js, Prisma, Socket.IO, LiveKit, Clerk  
 🔗 **Live Demo:** https://your-live-link.com  
 💻 **GitHub:** https://github.com/yourusername/nexchat
-
----
-
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Suyog241005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Suyog241005&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyog241005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
