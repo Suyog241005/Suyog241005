@@ -111,6 +111,32 @@ Building backend-heavy automation systems using:
 
 ---
 
+# 🚀 Featured Projects
+
+## 🔹 AutoPilot
+
+AI-powered automation platform built with **Next.js, TypeScript, Prisma, PostgreSQL, and Docker**.
+Designed to streamline workflows, manage background jobs, and integrate intelligent task execution.
+
+**Tech Stack:** Next.js, Node.js,  
+
+🔗 **Live Demo:** https://your-autopilot-link.com  
+💻 **GitHub:** https://github.com/yourusername/autopilot  
+
+
+## 🔹 NexChat
+
+Real-time chat application built with **Next.js, Node.js, Socket.io, MongoDB, and JWT authentication**.
+Supports live messaging, secure authentication, and scalable backend architecture.
+
+**Tech Stack:** React, Node.js, Express, MongoDB  
+
+🔗 **Live Demo:** https://your-autopilot-link.com  
+💻 **GitHub:** https://github.com/yourusername/autopilot  
+
+---
+
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Suyog241005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
