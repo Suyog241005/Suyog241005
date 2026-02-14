@@ -2,38 +2,84 @@
 
 ## 💫 About Me
 
-I’m a Computer Science student focused on building scalable, production-grade full-stack systems.
+I am a Full-Stack Developer focused on building scalable, production-ready web applications and developer-centric tools. I work across the stack — designing backend systems, APIs, real-time architectures, and performant frontends — with a strong emphasis on clean architecture and long-term maintainability.
 
-My core stack is **TypeScript, Next.js, Node.js, Prisma, and PostgreSQL**.  
-I specialize in backend-heavy applications, authentication systems (JWT-based), real-time architecture with Socket.io, and structured database design.
+I have experience building real-time systems using WebSockets, designing relational schemas with Prisma ORM, and structuring modular applications using Next.js. I prioritize performance, security, and system design over surface-level features.
 
-I don’t build tutorial clones.
+Alongside application development, I’m deeply interested in library and tooling development. I enjoy designing reusable abstractions, developer-friendly APIs, and modular packages that solve real engineering problems. My focus is on writing maintainable code that scales — not just in users, but in contributors and future extensibility.
 
-I build systems to understand how real-world products work internally — automation engines, payment-style flows, scheduling platforms, and production-style REST APIs with proper schema design and modular architecture.
+Core strengths:
+- Full-stack system architecture
+- Real-time systems (event-driven design)
+- Backend API design & database modeling
+- Authentication & role-based access control
+- Developer tooling and reusable library design
 
-I prioritize:
-- Clean, maintainable architecture
-- Backend-first system thinking
-- Performance and scalability
-- Real-world deployment workflows (Docker, Vercel, Render)
-
-Currently, I’m deepening my knowledge in:
-- System design fundamentals
-- Database indexing & query optimization
-- Distributed systems basics
-- Production-grade DevOps practices
+I aim to build software that is not only functional, but structurally sound, extensible, and engineered for growth.
 
 ---
 
-## 🔭 Current Focus
+# 🤝 Open Source Contributions
 
-Building backend-heavy automation systems using:
-- Next.js (App Router)
-- Prisma ORM
-- PostgreSQL
-- Docker-based deployments
+I actively contribute to open-source projects across TypeScript ecosystems, backend tooling, etc. My contributions focus on improving developer experience, fixing architectural issues, and enhancing documentation clarity.
 
 ---
+
+## 🏢 Ecosystems: JSON Schema
+
+### 🔹 Organization: [`rjsf-team`](https://github.com/rjsf-team)
+- Repositories Contributed:
+  - [`react-jsonschema-form`](https://github.com/rjsf-team/react-jsonschema-form)
+- PRs Raised: 7
+- PRs Merged: 5
+- Issues Opened: 1
+
+---
+
+### 🔹 Organization: [`MetaConfigurator`](https://github.com/MetaConfigurator)
+- Repositories Contributed:
+  - [`meta-configurator`](https://github.com/MetaConfigurator/meta-configurator)
+- PRs Raised: 1
+---
+
+## 📁 Repository-Level Contributions
+
+### 🔸 `repository-name`
+- Organization: `org-name`
+- Tech Stack: TypeScript, Node.js
+- Contributions:
+  - Refactored module structure to improve maintainability
+  - Fixed edge-case validation bug in authentication flow
+  - Improved type inference in core utility layer
+- PRs: **#123, #145**
+- Status: ✅ Merged
+
+---
+
+### 🔸 `repository-name-2`
+- Organization: `org-name`
+- Tech Stack: Next.js, React
+- Contributions:
+  - Performance optimization in data fetching layer
+  - Reduced bundle size by modularizing shared components
+- PRs: **#78**
+- Status: ✅ Merged
+
+---
+
+## 🎯 Contribution Focus
+
+My open-source work typically centers around:
+
+- Strengthening type safety
+- Improving architecture and modularity
+- Optimizing performance bottlenecks
+- Enhancing developer ergonomics
+- Writing maintainable and scalable abstractions
+
+---
+
+
 
 ## 👯 Open To Collaborate On
 
@@ -52,7 +98,6 @@ Building backend-heavy automation systems using:
 - JWT authentication systems
 - REST API design
 - Socket.io real-time apps
-- Docker deployments
 - Production workflow setup
 
 ---
@@ -126,13 +171,18 @@ Designed to streamline workflows, manage background jobs, and integrate intellig
 
 ## 🔹 NexChat
 
-Real-time chat application built with **Next.js, Node.js, Socket.io, MongoDB, and JWT authentication**.
-Supports live messaging, secure authentication, and scalable backend architecture.
+Real-time, channel-based chat application built with **Next.js, Prisma, WebSockets (Socket.IO), and LiveKit**.  
+Engineered for scalable messaging, secure role-based access control, and integrated voice/video communication.
 
-**Tech Stack:** React, Node.js, Express, MongoDB  
+- Designed a **real-time channel-based messaging system** using Socket.IO, managing concurrent users with event-driven message flow and synchronized state updates.
+- Integrated **LiveKit** to enable peer-to-peer voice and video conferencing with room-based session management.
+- Implemented **secure role-based authentication and authorization** using Clerk and Prisma, enforcing access control across channels.
+- Designed relational database schemas and API workflows with **Prisma ORM** to maintain real-time data consistency and structured role management.
+- Structured the project using a **modular Next.js architecture** to ensure scalability, maintainability, and future feature expansion.
 
-🔗 **Live Demo:** https://your-autopilot-link.com  
-💻 **GitHub:** https://github.com/yourusername/autopilot  
+**Tech Stack:** Next.js, Prisma, Socket.IO, LiveKit, Clerk  
+🔗 **Live Demo:** https://your-live-link.com  
+💻 **GitHub:** https://github.com/yourusername/nexchat
 
 ---
 
@@ -147,4 +197,3 @@ Supports live messaging, secure authentication, and scalable backend architectur
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=Suyog241005&icon=0&color=0)
