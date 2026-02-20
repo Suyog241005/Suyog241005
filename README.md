@@ -26,7 +26,7 @@ I actively contribute to open-source projects across TypeScript ecosystems, back
 
 ---
 
-## 🏢 Ecosystems: JSON Schema 
+## 🏢 Ecosystems: JSON Schema
 
 ### 🔹 Organization: [`rjsf-team`](https://github.com/rjsf-team)
 
@@ -173,7 +173,7 @@ My open-source work typically centers around:
 
 ---
 
-# 🚀 Featured Projects
+<!-- # 🚀 Featured Projects
 
 ## 🔹 AutoPilot
 
@@ -182,12 +182,12 @@ Designed to streamline workflows, manage background jobs, and integrate intellig
 
 **Tech Stack:** Next.js, Node.js,
 
-🔗 **Live Demo:** https://your-autopilot-link.com  
+🔗 **Live Demo:** https://your-autopilot-link.com
 💻 **GitHub:** https://github.com/yourusername/autopilot
 
 ## 🔹 NexChat
 
-Real-time, channel-based chat application built with **Next.js, Prisma, WebSockets (Socket.IO), and LiveKit**.  
+Real-time, channel-based chat application built with **Next.js, Prisma, WebSockets (Socket.IO), and LiveKit**.
 Engineered for scalable messaging, secure role-based access control, and integrated voice/video communication.
 
 - Designed a **real-time channel-based messaging system** using Socket.IO, managing concurrent users with event-driven message flow and synchronized state updates.
@@ -196,9 +196,8 @@ Engineered for scalable messaging, secure role-based access control, and integra
 - Designed relational database schemas and API workflows with **Prisma ORM** to maintain real-time data consistency and structured role management.
 - Structured the project using a **modular Next.js architecture** to ensure scalability, maintainability, and future feature expansion.
 
-**Tech Stack:** Next.js, Prisma, Socket.IO, LiveKit, Clerk  
-🔗 **Live Demo:** https://your-live-link.com  
-💻 **GitHub:** https://github.com/yourusername/nexchat
+**Tech Stack:** Next.js, Prisma, Socket.IO, LiveKit, Clerk
+🔗 **Live Demo:** https://your-live-link.com
+💻 **GitHub:** https://github.com/yourusername/nexchat -->
 
----
-
+<!-- --- -->
