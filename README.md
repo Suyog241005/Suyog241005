@@ -22,100 +22,115 @@ I aim to build software that is not only functional, but structurally sound, ext
 
 # 🤝 Open Source Contributions
 
-I actively contribute to open-source projects across TypeScript ecosystems, backend tooling, etc. My contributions focus on improving developer experience, fixing architectural issues, and enhancing documentation clarity.
+> I actively contribute to open-source projects across TypeScript ecosystems and backend tooling, focusing on developer experience, architectural improvements, and documentation clarity.
 
 ---
 
-## 🏢 Ecosystems: JSON Schema
+## 🏢 Ecosystem: JSON Schema
 
-### 🔹 Organization: [`rjsf-team`](https://github.com/rjsf-team)
-
-#### Repositories Contributed:
-
-- [`react-jsonschema-form`](https://github.com/rjsf-team/react-jsonschema-form)
-
-#### PRs
-
-- [#4904](https://github.com/rjsf-team/react-jsonschema-form/pull/4904) Fix: <short title> (merged)
-- [#4895](https://github.com/rjsf-team/react-jsonschema-form/pull/4895) Fix: <short title> (merged)
-- [#4855](https://github.com/rjsf-team/react-jsonschema-form/pull/4855) Fix: <short title> (merged)
-- [#4841](https://github.com/rjsf-team/react-jsonschema-form/pull/4841) Fix: <short title> (merged)
-- [#4825](https://github.com/rjsf-team/react-jsonschema-form/pull/4825) Fix: <short title> (merged)
-- [#4926](https://github.com/rjsf-team/react-jsonschema-form/pull/4926)
-- [#4853](https://github.com/rjsf-team/react-jsonschema-form/pull/4853)
-
-#### Issues Opened
-
-- [#4840](https://github.com/rjsf-team/react-jsonschema-form/issues/4840)
-
----
-
-### 🔹 Organization: [`ioflux-org`](https://github.com/ioflux-org)
-
-#### Repositories Contributed:
-
-- [`studio-json-schema`](https://github.com/ioflux-org/studio-json-schema)
-
-#### PRs
-
-- [#60](https://github.com/ioflux-org/studio-json-schema/pull/60)
-
----
-
-### 🔹 Organization: [`json-schema-org`](https://github.com/json-schema-org)
-
-#### Repositories Contributed:
-
-- [`website`](https://github.com/json-schema-org/website)
-
-#### PRs
-
-- [#1872](https://github.com/json-schema-org/website/pull/1872)
-
----
-
-### 🔹 Organization: [`MetaConfigurator`](https://github.com/MetaConfigurator)
-
-#### Repositories Contributed:
-
-- [`meta-configurator`](https://github.com/MetaConfigurator/meta-configurator)
-
-#### PRs
-
-- [#883](https://github.com/MetaConfigurator/meta-configurator/pull/883)
+<table>
+  <thead>
+    <tr>
+      <th>Organization</th>
+      <th>Repository</th>
+      <th>Pull Requests</th>
+      <th>Issues</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="7">
+        <a href="https://github.com/rjsf-team"><b>rjsf-team</b></a>
+      </td>
+      <td rowspan="7">
+        <a href="https://github.com/rjsf-team/react-jsonschema-form"><code>react-jsonschema-form</code></a>
+      </td>
+      <td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4904">#4904</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td>
+      <td rowspan="7"><a href="https://github.com/rjsf-team/react-jsonschema-form/issues/4840">#4840</a></td>
+    </tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4895">#4895</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4855">#4855</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4841">#4841</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4825">#4825</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4926">#4926</a></td></tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4853">#4853</a></td></tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ioflux-org"><b>ioflux-org</b></a>
+      </td>
+      <td>
+        <a href="https://github.com/ioflux-org/studio-json-schema"><code>studio-json-schema</code></a>
+      </td>
+      <td><a href="https://github.com/ioflux-org/studio-json-schema/pull/60">#60</a></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        <a href="https://github.com/json-schema-org"><b>json-schema-org</b></a>
+      </td>
+      <td>
+        <a href="https://github.com/json-schema-org/website"><code>website</code></a>
+      </td>
+      <td><a href="https://github.com/json-schema-org/website/pull/1872">#1872</a></td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/json-schema-org/ecosystem"><code>ecosystem</code></a>
+      </td>
+      <td><a href="https://github.com/json-schema-org/ecosystem/pull/19">#19</a></td>
+      <td><a href="https://github.com/json-schema-org/ecosystem/issues/18">#18</a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MetaConfigurator"><b>MetaConfigurator</b></a>
+      </td>
+      <td>
+        <a href="https://github.com/MetaConfigurator/meta-configurator"><code>meta-configurator</code></a>
+      </td>
+      <td><a href="https://github.com/MetaConfigurator/meta-configurator/pull/883">#883</a></td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## 🎯 Contribution Focus
 
-My open-source work typically centers around:
-
-- Strengthening type safety
-- Improving architecture and modularity
-- Optimizing performance bottlenecks
-- Enhancing developer ergonomics
-- Writing maintainable and scalable abstractions
+<table>
+  <tr>
+    <td>🔒 Strengthening type safety</td>
+    <td>🏗️ Improving architecture & modularity</td>
+    <td>⚡ Optimizing performance bottlenecks</td>
+  </tr>
+  <tr>
+    <td>🛠️ Enhancing developer ergonomics</td>
+    <td>📦 Writing maintainable abstractions</td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
 ## 👯 Open To Collaborate On
 
-- Open-source TypeScript projects
-- Backend systems
-- SaaS-style full-stack applications
-- Automation tools
+| Area           | Details                            |
+| -------------- | ---------------------------------- |
+| 📘 Open Source | TypeScript projects                |
+| ⚙️ Backend     | Scalable backend systems           |
+| 🌐 Full-Stack  | SaaS-style full-stack applications |
+| 🤖 Automation  | Developer tooling & automation     |
 
 ---
 
 ## 💬 Ask Me About
 
-- Next.js architecture
-- MERN stack
-- Prisma ORM
-- JWT authentication systems
-- REST API design
-- Socket.io real-time apps
-- Production workflow setup
+| Topic                     | Topic           | Topic                    |
+| ------------------------- | --------------- | ------------------------ |
+| Next.js architecture      | MERN stack      | Prisma ORM               |
+| JWT authentication        | REST API design | Socket.io real-time apps |
+| Production workflow setup |                 |                          |
 
 ---
 
