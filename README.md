@@ -39,14 +39,14 @@ I aim to build software that is not only functional, but structurally sound, ext
   </thead>
   <tbody>
     <tr>
-      <td rowspan="7">
+      <td rowspan="8">
         <a href="https://github.com/rjsf-team"><b>rjsf-team</b></a>
       </td>
-      <td rowspan="7">
+      <td rowspan="8">
         <a href="https://github.com/rjsf-team/react-jsonschema-form"><code>react-jsonschema-form</code></a>
       </td>
       <td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4904">#4904</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td>
-      <td rowspan="7"><a href="https://github.com/rjsf-team/react-jsonschema-form/issues/4840">#4840</a></td>
+      <td rowspan="8"><a href="https://github.com/rjsf-team/react-jsonschema-form/issues/4840">#4840</a></td>
     </tr>
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4895">#4895</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4855">#4855</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
@@ -54,6 +54,7 @@ I aim to build software that is not only functional, but structurally sound, ext
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4825">#4825</a> <img src="https://img.shields.io/badge/-merged-8957e5?style=flat-square" alt="merged"/></td></tr>
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4926">#4926</a></td></tr>
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4853">#4853</a></td></tr>
+    <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4972">#4972</a></td></tr>
     <tr>
       <td>
         <a href="https://github.com/ioflux-org"><b>ioflux-org</b></a>
