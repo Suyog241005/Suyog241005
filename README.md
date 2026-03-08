@@ -56,15 +56,16 @@ I aim to build software that is not only functional, but structurally sound, ext
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4853">#4853</a></td></tr>
     <tr><td><a href="https://github.com/rjsf-team/react-jsonschema-form/pull/4972">#4972</a></td></tr>
     <tr>
-      <td>
+      <td rowspan="2">
         <a href="https://github.com/ioflux-org"><b>ioflux-org</b></a>
       </td>
-      <td>
+      <td rowspan="2">
         <a href="https://github.com/ioflux-org/studio-json-schema"><code>studio-json-schema</code></a>
       </td>
       <td><a href="https://github.com/ioflux-org/studio-json-schema/pull/60">#60</a></td>
-      <td>—</td>
+      <td rowspan="2">—</td>
     </tr>
+    <tr><td><a href="https://github.com/ioflux-org/studio-json-schema/pull/158">#158</a> </td></tr>
     <tr>
       <td rowspan="2">
         <a href="https://github.com/json-schema-org"><b>json-schema-org</b></a>
