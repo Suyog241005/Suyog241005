@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Suyog
 
-## 💫 About Me
-
 I am a Full-Stack Developer focused on building scalable, production-ready web applications and developer-centric tools. I work across the stack — designing backend systems, APIs, real-time architectures, and performant frontends — with a strong emphasis on clean architecture and long-term maintainability.
 
 I have experience building real-time systems using WebSockets, designing relational schemas with Prisma ORM, and structuring modular applications using Next.js. I prioritize performance, security, and system design over surface-level features.
